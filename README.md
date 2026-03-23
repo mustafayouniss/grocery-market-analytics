@@ -82,7 +82,7 @@ Make sure you have the dataset file:
 ---
 
 <p align="center">
-❌ **Wrong Path Format**
+  <b>❌Wrong Path Format</b>
 </p>
 
 <p align="center">
