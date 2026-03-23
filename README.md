@@ -35,7 +35,7 @@ This project includes two PDF files for better understanding:
 
 ```
 
-## ▶️ How to Run the app
+## How to Run the app ▶️
 Follow these steps to run the application:
 ### 1️⃣ Install R & RStudio
 Make sure you have:
@@ -82,7 +82,7 @@ Make sure you have the dataset file:
 ---
 
 <p align="center">
-  <b>❌ Wrong Path Format</b>
+  ❌ Wrong Path Format
 </p>
 
 <p align="center">
