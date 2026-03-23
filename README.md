@@ -12,7 +12,7 @@ An interactive data analytics application built with **R** and **Shiny** to anal
 ## Documentation📄
 This project includes two PDF files for better understanding:
 
-- 📄 [grocery-market-overview.pdf](grocery-market-overview.pdf)  
+- 📄 [grocery-market-overview.pdf](grocery-market-analytics-overview.pdf)  
   A quick overview that summarizes the project idea, features, and workflow.
 
 - 📄 [grocery-market-analytics-report.pdf](grocery-market-analytics-report.pdf)  
