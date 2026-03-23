@@ -81,14 +81,20 @@ Make sure you have the dataset file:
 
 ---
 
-### Wrong Path Format ❌
+<p align="center">
+  <b>❌ Wrong Path Format</b>
+</p>
+
 <p align="center">
   <img src="screenshots/wrong-path-example.png" width="600"/>
 </p>
 
 ---
 
-### Correct Path Format ✅
+<p align="center">
+  <b>✅ Correct Path Format</b>
+</p>
+
 <p align="center">
   <img src="screenshots/correct-path-example.png" width="600"/>
 </p>
@@ -96,10 +102,10 @@ Make sure you have the dataset file:
 ---
 
 ### 6️⃣ Use the Application 🎯
-Paste the dataset path inside the app
-Click Read Data
-Then proceed with:
-Data Cleaning
-Dashboard
-Clustering
-Association Rules
+1. Paste the dataset path inside the app  
+2. Click **Read Data**  
+3. Then proceed with:
+   - Data Cleaning  
+   - Dashboard  
+   - Clustering  
+   - Association Rules  
