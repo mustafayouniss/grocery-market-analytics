@@ -1,6 +1,5 @@
 #Libraries that were used
 
-
 library("shiny")
 library("shinythemes")
 library("reader")
@@ -19,7 +18,7 @@ ui <- fluidPage(
   
   theme =shinytheme("cyborg"),
   
-  titlePanel("Analytical Program From Team NO.60"),
+  titlePanel("Analytical Program For Grocery Market"),
   
   tabsetPanel(
     tabPanel("1-Getting Ready♻️📥",
@@ -43,15 +42,15 @@ ui <- fluidPage(
                sidebarLayout(
                 sidebarPanel(textInput("Min_Support","Enter Minimum Support ( value must between 0.001:1 ):"),textInput("Min_Confidence","Enter Minimum Confidence ( value must between 0.001:1 ):"),sliderInput("Min_Length","Select The Minimum Length",min=2,max=10,value=2,step=1,width=500),width=10),
                 mainPanel(verbatimTextOutput("Data_Association"),width=10))),
-    tabPanel("About Us😎🙋‍♂️",
+    tabPanel("About Me😎🙋‍♂️",
                sidebarLayout(
-                sidebarPanel(h4("This Project Implemented BY(🔥نظم افكارك واحنا ف انتظارك) Team No.60 :"),width=50),
-                mainPanel(h3(" * Team Leader : Mustafa Younis  -------> 23011550 "),
-                          h3(" * Abdulrahman Gaber -------> 23011312"                ),   
-                          h3(" * Ezzat Abdel Ghaffar-------> 23011360"                  ),
-                          h3(" * kirolos Mounir -------> 23011424 " ),
-                          h3(" * Abdulrahman Mohammed -------> 23012002"                  ),
-                          h3(" * Mina Tharwat -------> 23011576 " ),
+                sidebarPanel(h4("This Project Implemented BY :"),width=50),
+                mainPanel(h3(" * Mustafa Younis "),
+                          h3(" * mustafa.younis.asran@gmail.com"                ),   
+                          h3(" * 01273522694"                  ),
+                          h3(" * coderixxx@youtube" ),
+                          h3(" * mustafayouniss@github"                  ),
+                          h3(" " ),
                           h4("💗💗💗💗💗💗💗💗💗💗💗Thanks💗💗💗💗💗💗💗💗💗💗💗"),width=50,height=50)))
     )
   )
