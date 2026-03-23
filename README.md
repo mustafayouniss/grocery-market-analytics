@@ -81,14 +81,14 @@ Make sure you have the dataset file:
 
 ---
 
-   ### Wrong Path Format ❌
+### Wrong Path Format ❌
 <p align="center">
   <img src="screenshots/wrong-path-example.png" width="600"/>
 </p>
 
 ---
 
-   ### Correct Path Format ✅
+### Correct Path Format ✅
 <p align="center">
   <img src="screenshots/correct-path-example.png" width="600"/>
 </p>
