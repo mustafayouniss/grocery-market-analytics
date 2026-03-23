@@ -4,7 +4,7 @@ An interactive data analytics application built with **R** and **Shiny** to anal
 ---
 
 <p align="center">
-  <img src="screenshots/hero-image.PNG" width="800"/>
+  <img src="screenshots/hero-image.png" width="800"/>
 </p>
 
 ---
