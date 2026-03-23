@@ -28,7 +28,8 @@ This project includes two PDF files for better understanding:
  ┣ 📄 grocery-market-analytics-overview.pdf   # Quick overview of the project  
  ┣ 📄 grocery-market-analytics-report.pdf     # Full detailed report (inputs, outputs, insights, and code explanation)  
  ┣ 📄 README.md                               # Project documentation and usage guide  
- ┗ 📁 screenshots                             # Images used in README (examples and app previews)  
+ ┗ 📁 screenshots                             # Images used in README (examples and app previews)
+     ┣ 📸 hero-image.png                      # Main preview image of the application (dashboard) 
      ┣ 📸 correct-path-example.png            # Example of correct dataset path format  
      ┣ 📸 wrong-path-example.png              # Example of incorrect dataset path format 
 
@@ -80,14 +81,14 @@ Make sure you have the dataset file:
 
 ---
 
-### Wrong Path Format ❌
+   ### Wrong Path Format ❌
 <p align="center">
   <img src="screenshots/wrong-path-example.png" width="600"/>
 </p>
 
 ---
 
-### Correct Path Format ✅
+   ### Correct Path Format ✅
 <p align="center">
   <img src="screenshots/correct-path-example.png" width="600"/>
 </p>
