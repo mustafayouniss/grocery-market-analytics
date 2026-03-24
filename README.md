@@ -62,13 +62,12 @@ install.packages(c(
 
 ---
 
-### 4️⃣ Run the Application
-Open the project file (app.R) in RStudio and click:
-👉 Run App
+### 3️⃣ Run the Application
+click👉 Run App
 
 ---
 
-### 5️⃣ Prepare Your Dataset Path ⚠️
+### 4️⃣ Prepare Your Dataset Path ⚠️
 Make sure you have the dataset file:  
 
 📄 **grocery-market-data.csv**
@@ -101,7 +100,7 @@ Make sure you have the dataset file:
 
 ---
 
-### 6️⃣ Use the Application 🎯
+### 5️⃣ Use the Application 🎯
 1. Paste the dataset path inside the app  
 2. Click **Read Data**  
 3. Then proceed with:
